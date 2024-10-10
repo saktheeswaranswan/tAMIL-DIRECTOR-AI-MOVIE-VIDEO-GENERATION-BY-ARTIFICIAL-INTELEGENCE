@@ -1,0 +1,219 @@
+Here are the detailed video generation prompts for each scene:
+
+1. The Abandoned Hospital Hallway
+Prompt: “A dark and abandoned hospital hallway with flickering fluorescent lights casting eerie shadows. The walls are cracked and stained, with broken medical equipment scattered across the floor. In the center, a terrified protagonist holds a flashlight, illuminating the darkness ahead. At the far end of the hallway, a tall, shadowy figure partially hides behind a doorway, with its eyes faintly glowing and fingers gripping the doorframe. A supporting character huddles close behind the protagonist, clutching their arm and looking back in fear. The air is filled with distant whispers and a cold, eerie draft carrying the scent of antiseptic and decay.”
+Video Type: Wide angle, slow pan down the hallway to build suspense and focus on characters.
+2. The Haunted Victorian Mansion Parlor
+Prompt: “A dimly lit Victorian parlor filled with antique furniture and an ornate mirror hanging on the wall. The heavy curtains flutter slightly, disturbed by an unseen force. In the center, a medium stands with arms outstretched, eyes closed as she summons spirits. Behind her, in the mirror’s reflection, a faint, ghostly child appears, staring directly at her. A skeptic leans against the doorway, arms crossed, watching with apprehension. Candlelight flickers on a table, casting eerie shadows, and a distant piano melody echoes through the walls, growing louder and more distorted.”
+Video Type: Medium shot, focusing on the mirror and the medium’s movements, gradually revealing the ghostly child.
+3. The Forest Clearing at Midnight
+Prompt: “A foggy forest clearing illuminated by moonlight, with towering trees surrounding the area. The ground is covered with fallen leaves and small animal bones. At the center stands the main character, holding a lantern and looking around with confusion and dread. Near the edge of the clearing, hidden partly by fog, a cloaked figure points a long, bony finger at the main character. Between the trees, a wolf’s glowing eyes watch, ready to pounce. The wind rustles the leaves, and a distant howl echoes through the forest as the fog swirls, making visibility difficult beyond a few feet.”
+Video Type: Wide shot showing the entire clearing with a slow zoom towards the protagonist, focusing on the witch’s hand and the wolf’s eyes.
+4. The Possessed House’s Basement
+Prompt: “A dark, damp basement filled with old, dusty furniture and cobwebs hanging from the ceiling. Shelves along the walls hold strange, ancient artifacts covered in dust. At the bottom of the staircase, a teenager stands with a flashlight, eyes wide in fear as they spot something moving in the shadows. Crawling across the ceiling is a possessed entity, its limbs twisted at unnatural angles, with sinister red eyes glowing. A family dog stands at the teenager’s side, growling softly, its fur bristling as it senses the presence. The air is filled with the sound of water dripping, the smell of mold and decay, and the temperature drops suddenly as the flashlight flickers.”
+Video Type: Low-angle shot focusing on the teenager’s face, panning upward to reveal the possessed entity crawling on the ceiling.
+5. The Abandoned Carnival’s Ferris Wheel
+Prompt: “An abandoned carnival at dusk, with rusty rides and overgrown pathways. The Ferris wheel slowly creaks as it turns on its own, covered in graffiti and rust. A survivor climbs into one of the Ferris wheel’s cars, nervously looking over their shoulder. In the distance, a clown stands still in front of a broken game booth, its face painted with a sinister grin, head tilted unnaturally. A lost child wanders between the rides, calling for help, unaware of the clown’s presence. The survivor reaches out towards the child, trying to get their attention. The air is filled with distant, warped carnival music, and a cold breeze makes the Ferris wheel groan louder as shadows grow longer.”
+Video Type: Long shot tracking the survivor’s movement, focusing briefly on the clown and shifting towards the child to create a sense of urgency.
+
+
+https://www.youtube.com/watch?v=qSI0TNa3rjw
+
+
+
+Share
+
+
+You said:
+a man running 250 km/hr 
+
+train running at 200 km/hr but man runs at 250 km/hr
+
+keep the camera on railway track 
+
+but train will hit it know 
+
+iam keeping the camera inside a hole i dig between the rail way tracks
+
+clock tiks and the judge is in tension seeing the front door and again watching the clock
+
+keep the camera aside front and behind of a the mob
+
+judge gives the verdict to terrorist at that time a train breaks the wall and comes inside the court
+
+a man walks out of the train but he turns in to a lion and man again and his eyes turn red  NOW CREATE THE PROMPTS IN HIGH QUALITY FORVIDEO GENERSATION
+
+ChatGPT said:
+ChatGPT
+The scene you’ve described is very cinematic and action-packed! To generate such a video scene by scene with high quality, the prompt descriptions need to be very detailed for each part. Here's a breakdown:
+
+Man Running Alongside Train:
+
+Description: A man is sprinting at a speed of 250 km/h along a railway track. Beside him, a train is moving at 200 km/h. The camera is positioned inside a small hole between the tracks, creating a low, ground-level perspective, capturing both the man and the train. The camera shakes slightly due to the train's vibrations. The man’s face shows determination as he keeps pace, with wind blowing through his hair. The sky is a bright, cloudy blue, and the railway track extends into the horizon.
+Mood: Intense, thrilling, and high-speed action.
+Judge and the Ticking Clock:
+
+Description: The camera switches to the inside of a courtroom. The judge, dressed in a black robe, is glancing nervously at a large, old-fashioned clock on the wall. The hands of the clock tick loudly, emphasizing the tension in the air. The camera captures the judge’s worried expression as he repeatedly looks back and forth between the clock and the entrance of the courtroom. The lighting is dim, creating a dramatic and suspenseful atmosphere.
+Mood: Suspenseful, building anticipation.
+Crowd Mob Shot:
+
+Description: The camera moves outside the courtroom, capturing the mob gathered in front of the building. Some people are holding signs, while others look on anxiously. The camera angles shift between the front and back of the mob, giving a sense of the crowd’s intensity. The sounds of murmurs, shouts, and tension in the air are evident. The lighting is natural, with sunlight casting shadows across the ground.
+Mood: Chaotic, tense.
+Courtroom Impact – Train Breaks Through Wall:
+
+Description: Inside the courtroom, as the judge announces the verdict for the terrorist, there is a sudden loud crash. The camera captures a train bursting through the wall of the courtroom, bricks and debris flying everywhere. Dust fills the air, and the camera shakes violently as the train comes to a halt. The lighting changes from dim to bright as the headlights of the train illuminate the room.
+Mood: Dramatic, shocking, action-filled.
+Man Transforming into a Lion:
+
+Description: The camera focuses on the train’s door as it opens. A man steps out, his movements slow and deliberate. As he walks forward, his form begins to shift — fur starts appearing, his face elongates, and his eyes glow red. The transformation continues until he becomes a lion, roaring powerfully. Then, just as quickly, he reverts back to human form, his eyes still glowing red. The camera zooms in on his eyes for an intense close-up.
+Mood: Supernatural, intense, dramatic.
+These prompts are structured to provide a high-quality, immersive visual experience for each segment, with attention to detail, camera angles, and mood. Let me know if any specific aspect needs further adjustment!
+
+
+
+
+
+
+You said:
+VETRIMARAN DIRECTOR CAMERASTYLE TELL THIS
+ChatGPT said:
+ChatGPT
+Memory updated
+Vetrimaaran’s directorial style is known for its raw, realistic, and immersive approach, often using handheld cameras and natural lighting to create an authentic and gritty feel. Here's how the scenes would be directed in his style:
+
+Man Running Alongside Train:
+
+Camera Style: The camera would be handheld, capturing the shakiness and urgency of the high-speed chase. It would move low and close to the ground, tracking the man’s sprint alongside the train, giving a sense of the speed and intensity. The focus would shift between the man’s determined face and the moving train, showing the strain and power in his movements. The colors would be earthy and natural, using natural lighting for authenticity.
+Mood: Real, intense, with a focus on human determination.
+Judge and the Ticking Clock:
+
+Camera Style: The camera would be static, focusing on the judge’s tense face and then shifting focus to the old-fashioned clock. Close-ups of the judge’s hand tapping nervously on the desk would emphasize the stress. Vetrimaaran often uses simple but effective framing, so the composition would be clean, highlighting the emotional tension. Natural light, filtering through the windows, would create shadows that add to the suspense.
+Mood: Subtle, tense, with a focus on human expression.
+Crowd Mob Shot:
+
+Camera Style: The camera would move fluidly among the crowd, using close-up shots of people’s faces to capture their emotions. It would have a handheld, documentary-like feel, emphasizing the chaos and tension in the mob. The lighting would be natural, with sunlight casting realistic shadows, enhancing the sense of reality. Vetrimaaran often focuses on individual expressions to depict a collective emotion.
+Mood: Raw, chaotic, realistic.
+Courtroom Impact – Train Breaks Through Wall:
+
+Camera Style: The camera would be positioned at an angle where it captures the courtroom and the judge simultaneously as the train bursts through the wall. It would be handheld to capture the impact, shaking and moving in response to the crash, creating an immersive and chaotic feel. Dust, debris, and natural light from the train’s headlights would dominate the frame, reflecting the realistic and chaotic atmosphere that Vetrimaaran often emphasizes in intense scenes.
+Mood: Chaotic, realistic, impactful.
+Man Transforming into a Lion:
+
+Camera Style: The camera would zoom in on the man’s face, capturing his transformation in a series of close-up and mid-range shots, highlighting the detail of his changing form. The movement would be subtle, maintaining a gritty, realistic feel despite the supernatural element. The focus would be on his eyes turning red, with shadows and natural lighting creating a dark, intense look. Vetrimaaran’s style would make the transformation feel grounded and raw.
+Mood: Supernatural yet grounded, with intensity focused on expressions and details.
+This approach keeps the scenes true to Vetrimaaran's signature style, focusing on realism, handheld cinematography, and naturalistic lighting to create an immersive and authentic visual experience.
+
+
+
+
+
+
+You said:
+TELL IN MYSKIN TAMIL DIRECTORSTYLE
+ChatGPT said:
+ChatGPT
+Memory updated
+வெற்றிமாறன் இயக்குநரின் காமெரா ஸ்டைலை தமிழில் விளக்குகிறேன்:
+
+ரயிலோடு பாசாங்கு செய்யும் மனிதன்:
+
+காமெரா ஸ்டைல்: காமெரா ஹேண்ட்ஹெல்டாக இருந்து கையாலாகாத சுவாரஸ்யத்தைக் காட்சிப்படுத்தும். நிஜத்தன்மையை உணர்த்தும் வகையில் தரையிலிருந்து நெருக்கமாக கேமரா மனிதனின் வேகத்தை காட்சியளிக்கும். மனிதனின் முகத்தை, ரயிலின் வேகத்தையும் மாறி மாறி காட்டும். இயற்கை வெளிச்சத்தைப் பயன்படுத்தி அந்த உண்மை உணர்வைக் கொடுக்கும்.
+மூடம்: நிஜம், வேகம், மனிதனின் முயற்சியை மையமாகக் கொண்டு.
+நீதிபதி மற்றும் கடிகாரம்:
+
+காமெரா ஸ்டைல்: காமெரா நிலையான நிலையில், நீதிபதியின் முகத்தை நெருக்கமாகவும், பின்னர் பழைய முள்ளுக் கடிகாரத்தை மையமாகவும் கவனமாக படம் பிடிக்கும். நீதிபதியின் கையால் மேஜையில் தட்டுவதும், அவரது மன உளைச்சலைக் காட்டும் வகையில் நெருக்கமாக காட்டப்படும். வெற்றிமாறன் பொதுவாக எளிமையான ஆனால் ஆழமான காட்சியமைப்புகளை பயன்படுத்துவார். சுவரிலிருந்து படரும் இயற்கை வெளிச்சம் சாயல்கள் உருவாக்கி, பரபரப்பை உணர்த்தும்.
+மூடம்: நுணுக்கமான பரபரப்பு, மனநிலை மையமாக.
+கூட்டத்தின் காட்சி:
+
+காமெரா ஸ்டைல்: கூட்டத்தின் நடுவே கேமரா இயங்குகிறது,
+
+
+
+
+
+You said:
+IN ENGLISH ITSELF
+ChatGPT said:
+ChatGPT
+Here's the breakdown of your cinematic vision in the style of a Tamil director like Vetrimaaran:
+
+Man Running Alongside the Train:
+
+Camera Style: The camera would be handheld, staying close to the ground to intensify the sensation of speed and movement. It would capture the man’s struggle, his rapid breathing, and the tension in his muscles as he races against the train. Vetrimaaran’s raw, immersive style would focus on close-ups of the man’s face, the train’s wheels, and the ground rushing by, making you feel every ounce of the effort. The lighting would be natural, using the harsh sunlight or fading evening light to bring out the earthy, real-world feel.
+Mood: Realistic, intense, focusing on the man’s physicality and determination.
+Judge and the Ticking Clock:
+
+Camera Style: The camera would focus tightly on the judge, capturing every subtle shift in his expression. Vetrimaaran’s style would emphasize the tension by zooming in on small details: the judge’s fingers tapping the table, the beads of sweat on his forehead, the sound of the clock ticking loudly in the background. The lighting would be dim, with natural light filtering in through windows, creating a dramatic, tense atmosphere.
+Mood: Building suspense, quiet intensity.
+Crowd Mob Shot:
+
+Camera Style: The camera would move fluidly through the crowd, handheld to give a documentary-like feel. The focus would jump from face to face, showing the collective tension of the mob. Vetrimaaran often uses close-ups to humanize the crowd, so you would see their anxiety, anger, and fear in close, personal shots. The camera would also capture the small details: dusty feet, clenched fists, signs held high, capturing the raw, emotional energy of the scene.
+Mood: Chaotic, real, capturing the pulse of the crowd.
+Train Crashing into the Courtroom:
+
+Camera Style: When the train crashes through the courtroom wall, the camera would be handheld, shaking to immerse the audience in the destruction. The debris, dust, and chaos would be captured in real-time, with natural lighting highlighting the sudden brightness of the train's headlights breaking into the dim courtroom. Vetrimaaran's style emphasizes grounded chaos, where every impact
+
+2/2
+
+You said:
+NO MYSKIN DIRECTOR STYLE
+ChatGPT said:
+ChatGPT
+Memory updated
+Mysskin’s directorial style is distinct, focusing on long takes, minimalistic framing, and dramatic angles. He often uses unconventional perspectives and deep emotional intensity. Here's how the scenes would be directed in his style:
+
+Man Running Alongside the Train:
+
+Camera Style: Mysskin’s style would place the camera at a low angle, almost from the ground level, focusing on the man’s feet and the train’s wheels. The camera could remain static as the man and train speed past, emphasizing their movement while the background stays still. The framing would be minimalistic, with a focus on the intensity of the man’s running. The lighting would be dramatic, using either early morning or late evening light for shadow play and depth.
+Mood: Gritty, intense, with a focus on the raw effort of the character.
+Judge and the Ticking Clock:
+
+Camera Style: The camera would be placed at an odd angle, perhaps slightly below or above the judge, to create a sense of unease. Mysskin often uses long, uncut shots, so the camera might slowly zoom in on the judge’s face and the clock, building tension as each second ticks. The scene would be quiet, with the loud ticking of the clock as the only sound, amplifying the sense of time and pressure. The lighting would be soft, with shadows cast across the judge’s face, reflecting his inner turmoil.
+Mood: Suspenseful, quiet, and intense.
+Crowd Mob Shot:
+
+Camera Style: The camera would take a distant perspective, capturing the mob from an elevated angle or through a window. This creates a sense of observation, making the viewer feel like an outsider looking in, which Mysskin often does to build detachment and objectivity. The focus would remain on small movements and gestures rather than individual faces, emphasizing the collective anxiety of the mob.
+Mood: Observational, detached, capturing the mob’s collective energy.
+Courtroom Impact – Train Breaks Through Wall:
+
+Camera Style: The camera would be positioned at a wide angle, allowing the audience to see the entire courtroom as the train breaks through. Mysskin might keep the camera still, capturing the chaos from a fixed point, making the viewer feel like they are a passive observer caught in the midst of the destruction. The lighting would shift dramatically as the train’s headlights flood the room, creating a stark contrast between light and shadow.
+Mood: Dramatic, chaotic, using stillness to contrast with the explosive action.
+Man Transforming into a Lion:
+
+Camera Style: The transformation would be shot in a close-up, focusing intensely on the man’s eyes and face. Mysskin might use extreme close-ups, capturing the smallest details of the change—fur appearing, eyes turning red—while keeping the background minimalistic. The camera could then slowly pull back to reveal the full transformation. The lighting would be dark, with spotlights focusing on the man’s face, enhancing the dramatic effect.
+Mood: Eerie, intense, with an emphasis on facial expressions and details.
+This approach aligns with Mysskin’s signature style, using dramatic angles, minimalism, and deep focus on character emotions to create an impactful visual experience.
+
+
+
+
+
+
+You said:
+IN TAMIL DIRECTOR MANIRATHANAM STYLE
+ChatGPT said:
+ChatGPT
+Memory updated
+Mani Ratnam's style is known for its poetic visuals, dynamic camera movements, and use of natural elements to enhance the mood. He blends aesthetics with emotions, often using lighting and framing to create a cinematic atmosphere. Here’s how the scenes would be directed in his style:
+
+Man Running Alongside the Train:
+
+Camera Style: The camera would move dynamically, following the man’s pace, gliding smoothly alongside him and the train. Mani Ratnam would use a combination of close-ups to capture the determination on the man’s face and wide shots showing the vastness of the railway tracks and surrounding landscape. The lighting would be natural, possibly during the golden hour, to create a warm, immersive feel, highlighting the dust kicked up by the train and the sweat on the man’s face.
+Mood: Poetic, immersive, with a focus on the visual harmony between man and environment.
+Judge and the Ticking Clock:
+
+Camera Style: The camera would be positioned to capture the judge from a side angle, with soft, natural light streaming through the windows, creating a play of light and shadow on his face. Mani Ratnam’s style might include a slow zoom-in on the clock, emphasizing the passage of time and building suspense. He often uses music or subtle soundscapes to complement the visuals, so the ticking clock might blend with a soft background score, adding to the tension.
+Mood: Suspenseful, artistic, with a focus on emotional intensity.
+Crowd Mob Shot:
+
+Camera Style: The camera would move smoothly through the crowd, capturing their anxious expressions and emotions in a fluid, continuous shot. Mani Ratnam might use a top-down angle to show the collective energy of the mob or frame the shot with elements like fluttering flags or shadows, creating a sense of movement and chaos. The lighting would be natural, enhancing the reality of the scene.
+Mood: Dynamic, emotional, capturing the collective mood of the crowd.
+Courtroom Impact – Train Breaks Through Wall:
+
+Camera Style: The camera would start with a wide shot of the courtroom, capturing the judge and the terrorist in a balanced frame. As the train breaks through the wall, the camera would move rapidly to follow the chaos, zooming in and out to capture the falling debris and the shocked reactions of people. Mani Ratnam might use a mixture of slow-motion shots and quick cuts to heighten the drama and emphasize the intensity of the moment. The lighting would shift dramatically as the headlights of the train pierce through the dust.
+Mood: Dramatic, visually stunning, with emphasis on action and reaction.
+Man Transforming into a Lion:
+
+Camera Style: The transformation would be filmed with a series of close-ups, focusing on the man’s eyes and face as they begin to change. Mani Ratnam might use a reflection technique, showing the transformation in a mirror or a pool of water, adding a layer of poetic beauty. The lighting would be moody, with blue and red hues creating a mystical atmosphere. The camera could move gracefully, capturing the transition between human and lion in an artistic, dreamlike manner.
+Mood: Mystical, intense, with an emphasis on visual storytelling and transformation.
+This approach stays true to Mani Ratnam's style, blending aesthetics, emotions, and dynamic camera movements to create a visually rich and immersive experience.
